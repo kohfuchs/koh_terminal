@@ -3,7 +3,7 @@
 		<hr>
 		<div class="row">
 			<div class="col-md-4 text-left">
-				col 1 - Hier kommt noch was anderes hin. :)
+			
 			</div>
 		
 		
